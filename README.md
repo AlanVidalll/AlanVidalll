@@ -11,7 +11,7 @@
 - 💼 &nbsp; Desenvolvedor web.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; estudando e se mantendo atualizado sempre.
-- ☕ &nbsp; Eu acredito que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse. 
+- ☕ &nbsp; Eu acredito que uma xícara de café pode ser a solução definitiva para qualquer estresse. 
 
 <h3>🛠 Hard Skills</h3>
 
