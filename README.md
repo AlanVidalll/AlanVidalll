@@ -3,7 +3,7 @@
 <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">
  
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 👨🏻‍💻 Sobre o Alan </h3>
 
 - 🔭 &nbsp; Atualmente estagiando em uma empresa de Cloud & Data
 - 🤔 &nbsp; Explorando novas tecnologias.
