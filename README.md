@@ -5,13 +5,13 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Atualmente estou estagiando em uma empresa de Cloud & Data
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🔭 &nbsp; Atualmente estagiando em uma empresa de Cloud & Data
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor web.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
-- ☕ &nbsp; Eu acredito que uma xícara de café pode ser a solução definitiva para qualquer estresse. 
+- ☕ &nbsp; Uma xícara de café pode ser a solução do estresse. 
 
 <h3>🛠 Hard Skills</h3>
 
