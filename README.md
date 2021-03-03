@@ -17,7 +17,7 @@
 
 - 💻 &nbsp; Python | Javascript | Java  
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
-- 🛢 &nbsp; MySQL 
+- 🛢 &nbsp; SQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
 <br>
