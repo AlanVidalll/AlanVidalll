@@ -15,10 +15,10 @@
 
 <h3>🛠 Hard Skills</h3>
 
-- 💻 &nbsp; Python | Javascript | Java  
+- 💻 &nbsp; Python | JavaScript   
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
-- 🛢 &nbsp; SQL 
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+- 🛢 &nbsp; SQL, MongoDB
+- 🔧 &nbsp; Visual Studio code | Git
 
 <br>
 
