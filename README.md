@@ -17,7 +17,7 @@
 
 - 💻 &nbsp; Python | JavaScript   
 - 🌐 &nbsp; HTML | CSS | Bootstrap 
-- 🛢 &nbsp; SQL, MongoDB
+- 🛢 &nbsp; SQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git
 
 <br>
