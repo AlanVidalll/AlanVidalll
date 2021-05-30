@@ -13,12 +13,12 @@
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
 
-<h3>🛠 Hard Skills</h3>
+<h3>🛠 Skills</h3>
 
-- 💻 &nbsp; Python | JavaScript   
-- 🌐 &nbsp; HTML | CSS | Bootstrap 
-- 🛢 &nbsp; SQL | MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
+- 💻 &nbsp; Python | JavaScript | Node.Js  
+- 🌐 &nbsp; HTML | CSS | Bootstrap | React.js
+- 🛢 &nbsp; MySql | MongoDB
+- 🔧 &nbsp; Visual Studio Code | Git
 
 <br>
 
