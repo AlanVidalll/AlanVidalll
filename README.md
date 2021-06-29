@@ -7,8 +7,8 @@
 
 - 🔭 &nbsp; Atualmente estagiando em uma empresa de Cloud & Data
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Desenvolvedor web.
+- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
+- 💼 &nbsp; Desenvolvedor Front-end.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
