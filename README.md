@@ -1,5 +1,5 @@
 <h2> Olá! Eu sou o Alan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cklf6DC5GH1Ob95u2o/giphy.gif" width="350"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/cklf6DC5GH1Ob95u2o/giphy.gif" width="360"/>
 <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">
  
 
@@ -8,7 +8,7 @@
 - 🔭 &nbsp; Atualmente estagiando em uma empresa de Cloud & Data
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Desenvolvedor Front-end.
+- 💼 &nbsp; Desenvolvedor Front-End.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
@@ -16,7 +16,7 @@
 <h3>🛠 Skills</h3>
 
 - 💻 &nbsp; Python | JavaScript | Node.Js  
-- 🌐 &nbsp; HTML5 | CSS3 | Bootstrap | React.js
+- 🌐 &nbsp; HTML5 | CSS3 | React.js | Ant Design
 - 🛢 &nbsp; MySql | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
 
