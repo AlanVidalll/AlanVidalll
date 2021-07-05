@@ -1,5 +1,5 @@
 <h2> Olá! Eu sou o Alan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cklf6DC5GH1Ob95u2o/giphy.gif" width="360"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/cklf6DC5GH1Ob95u2o/giphy.gif" width="370"/>
 <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">
  
 
