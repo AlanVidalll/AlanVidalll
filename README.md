@@ -15,7 +15,7 @@
 
 <h3>🛠 Skills</h3>
 
-- 💻 &nbsp; Python | JavaScript | Node.Js  
+- 💻 &nbsp; Python | JavaScript | Node.Js | Typescript 
 - 🌐 &nbsp; HTML5 | CSS3 | React.js | Ant Design
 - 🛢 &nbsp; MySql | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
