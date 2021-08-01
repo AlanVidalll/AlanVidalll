@@ -22,6 +22,12 @@
 
 <br>
 
+<div>
+  <a href="https://github.com/AlanVidalll">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanVidalll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVidalll&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlanVidalll&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AlanVidalll Github Stats"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVidalll&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
@@ -34,7 +40,7 @@
   <a href = "mailto:alanfonseca7812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alanvidalll/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/alanvidalll/alanvidalll/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alyson-rdev/alyson-rdev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
