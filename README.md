@@ -13,13 +13,13 @@
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
 
-<h3>🛠 Skills</h3>
+<!--<h3>🛠 Skills</h3>
 
 - 💻 &nbsp; Python | JavaScript | Node.Js | Typescript 
 - 🌐 &nbsp; HTML5 | CSS3 | React.js | Ant Design
 - 🛢 &nbsp; MySql | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
-
+-->
 <br>
 
 <div>
@@ -39,16 +39,13 @@
   <a href="https://www.instagram.com/alan_vidalll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alanfonseca7812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alanvidalll/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/alyson-rdev/alyson-rdev/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
-<p align="center">
+<!--<p align="center">
 &nbsp; <a href="https://www.facebook.com/alanvidalll/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/alan_vidalll/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/alanvidalll/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:alanfonseca7812@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+</p>-->
 
 ⭐️ From [Alan Vidal](https://github.com/AlanVidalll)
