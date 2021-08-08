@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; Atualmente estagiando em uma empresa de Cloud & Data
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor Front-End.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
@@ -15,7 +15,7 @@
 
 <!--<h3>🛠 Skills</h3>
 
-- 💻 &nbsp; Python | JavaScript | Node.Js | Typescript 
+- 💻 &nbsp; JavaScript | Node.Js | Typescript 
 - 🌐 &nbsp; HTML5 | CSS3 | React.js | Ant Design
 - 🛢 &nbsp; MySql | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
