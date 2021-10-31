@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 Sobre o Alan </h3>
 
-- 🔭 &nbsp; Atualmente Desenvolvedor Front-end Jr na Kumulus data & Cloud
+- 🔭 &nbsp; Atualmente trabalhando para Kumulus Data & Cloud
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Desenvolvedor Front-End.
