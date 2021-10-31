@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 Sobre o Alan </h3>
 
-- 🔭 &nbsp; Atualmente trabalhando para Kumulus Data & Cloud
-- 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
+- 🔭 &nbsp; Atualmente trabalhando para Kumulus Data & Cloud.
 - 💼 &nbsp; Desenvolvedor Front-End.
+- 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
+- 🤔 &nbsp; Explorando novas tecnologias.
 - 🌱 &nbsp; Entusiasta de tecnologia como um todo.
 - ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
 - ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
@@ -15,7 +15,7 @@
 <!--<h3>🛠 Skills</h3>
 
 - 💻 &nbsp; JavaScript | Node.Js | Typescript 
-- 🌐 &nbsp; HTML5 | CSS3 | React.js | Ant Design
+- 🌐 &nbsp; HTML5 | CSS3 | React.js | Ant Design | Material UI
 - 🛢 &nbsp; MySql | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Git
 -->
