@@ -27,9 +27,6 @@
   <img align="center" alt="Alan-React" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alan-HTML" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alan-CSS" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-Python" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alan-Csharp" height="6%" width="6%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
-  <img align="center" alt="Alan-Csharp" height="6%" width="6%" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg">
   <img align="center" alt="Alan-Csharp" height="6%" width="6%" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg">
 </div>
 <br>
