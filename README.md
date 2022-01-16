@@ -22,12 +22,17 @@
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-Ts" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Alan-React" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Alan-HTML" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alan-CSS" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-Csharp" height="6%" width="6%" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg">
+  <img align="center" alt="Javascript" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Tipescript" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="React.Js" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="HTML5" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="6%" width="6%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Material UI" height="6%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+  <img align="center" alt="Storybook" height="6%" width="6%"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"/>
+  <img align="center" alt="Jest" height="6%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+  <img align="center" alt="Git" height="6%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
+  <img align="center" alt="Next.Js" height="6%" width="6%" src="https://user-images.githubusercontent.com/54403875/149670229-e9bc8045-1323-408c-804b-022996d12cc8.png"/>
+  <img align="center" alt="VS Code" height="6%" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 <br>
 
@@ -50,7 +55,9 @@
   <a href="https://www.instagram.com/alan_vidalll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alanfonseca7812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alanvidalll/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/alanvidalll" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+ 
+ 
+ <!--<a href="https://www.facebook.com/alanvidalll" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>-->
 </div>
 
 <!--<p align="center">
