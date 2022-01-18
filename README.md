@@ -1,16 +1,16 @@
-<h2> Olá! Eu sou o Alan. <!--<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">--></h2>
+<h2> Hi! I'm Alan. <!--<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">--></h2>
 <img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">
  
 
-<h3> 👨🏻‍💻 Sobre o Alan </h3>
+<h3> 👨🏻‍💻 About Alan </h3>
 
-- 🔭 &nbsp; Atualmente trabalhando para Kumulus Data & Cloud.
-- 💼 &nbsp; Desenvolvedor Front-End.
-- 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
-- 🤔 &nbsp; Explorando novas tecnologias.
-- 🌱 &nbsp; Entusiasta de tecnologia como um todo.
-- ✍️ &nbsp; Estudando e se mantendo atualizado sempre.
-- ☕ &nbsp; Uma xícara de café pode ser a solução de todo estresse. 
+- 🔭 &nbsp; Currently working at Kumulus Data & Cloud.
+- 💼 &nbsp; Software Developer Front-end .
+- 🎓 &nbsp; Graduated in Systems Analysis and Development.
+- 🤔 &nbsp; Exploring new technologies.
+- 🌱 &nbsp; Technology enthusiast as a whole.
+- ✍️ &nbsp; Studying and keeping up to date.
+- ☕ &nbsp; A cup of coffee can be the solution to all stress. 
 
 <!--<h3>🛠 Skills</h3>
 
@@ -49,7 +49,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanVidalll&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)-->
 
 
-<h3> 🤝🏻 Conecte-se comigo </h3>
+<h3> 🤝🏻 Connect with me! </h3>
 
 <div> 
   <a href="https://www.instagram.com/alan_vidalll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
