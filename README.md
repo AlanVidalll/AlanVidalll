@@ -1,5 +1,6 @@
 <h2> Hi! I'm Alan. <!--<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">--></h2>
-<img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">
+
+<div style="display: inline_block"><img src="https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png" width="40" height="40">  <img src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png" width="40" height="40"></div>
  
 
 <h3> 👨🏻‍💻 About Alan </h3>
