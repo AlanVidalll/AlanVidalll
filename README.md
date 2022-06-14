@@ -5,8 +5,8 @@
 
 <h3> 👨🏻‍💻 About Alan </h3>
 
-- 🔭 &nbsp; Currently working at Kumulus Data & Cloud.
-- 💼 &nbsp; Software Developer Front-end .
+- 🔭 &nbsp; Currently working at Rede/Itáu Unibanco.
+- 💼 &nbsp; Software Developer | System Analysis.
 - 🎓 &nbsp; Graduated in Systems Analysis and Development.
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Technology enthusiast as a whole.
